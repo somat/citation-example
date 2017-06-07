@@ -1,0 +1,14 @@
+((*- extends 'article.tplx' -*))
+
+((* block author *))
+\author{Akhmat Safrudin}
+((* endblock author *))
+
+((* block title *))
+\title{Extreme Machine Learning}
+((* endblock title *))
+
+((* block bibliography *))
+\bibliographystyle{unsrt}
+\bibliography{biblio}
+((* endblock bibliography *))
